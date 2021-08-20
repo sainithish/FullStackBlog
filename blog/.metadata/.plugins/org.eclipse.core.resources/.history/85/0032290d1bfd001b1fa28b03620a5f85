@@ -1,0 +1,5 @@
+package com.sai.blog.exception;
+
+public class ResourceNotFoundException {
+
+}
